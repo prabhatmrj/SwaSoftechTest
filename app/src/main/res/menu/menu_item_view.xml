@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/my_order"
+    android:title="My Order"
+    />
+    <item android:id="@+id/other_option"
+        android:title="Other Option"
+        />
+    <item android:id="@+id/upgrade_option"
+        android:title="Upgrade_Option"
+        />
+    <item android:id="@+id/about_us"
+        android:title="About Us"
+        />
+
+    <item android:id="@+id/refer_earn"
+        android:title="Refer Earn"
+        />
+    <item android:id="@+id/logout"
+        android:title="LogOut"
+
+
+        />
+</menu>
